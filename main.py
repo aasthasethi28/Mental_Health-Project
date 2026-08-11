@@ -7,7 +7,7 @@ from pydantic import BaseModel, Field
 from typing import Literal
 
 
-model = joblib.load("Mental_Health_model.pkl")
+model = joblib.load("Mental_Health_Model.pkl")
 
 app = FastAPI()
 
