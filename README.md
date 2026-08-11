@@ -1,5 +1,4 @@
 ﻿# Mental_Health-Project
-# Mental Health Signal
 
 A machine learning-based web application that predicts a student's **Mental Health Score (0–10)** based on social media usage, academic activities, lifestyle habits, and perceived stress.
 
